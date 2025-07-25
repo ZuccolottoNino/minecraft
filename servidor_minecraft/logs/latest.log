@@ -79,3 +79,15 @@
 [19:36:16] [Server thread/INFO]: juanchipe7[/127.174.93.140:60719] logged in with entity id 2252 at ([world]401.5, 51.0, -331.5)
 [19:56:10] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
 [19:56:10] [Server thread/INFO]: juanchipe7 left the game
+[20:37:51] [Server thread/INFO]: Simnov lost connection: Disconnected
+[20:37:51] [Server thread/INFO]: Simnov left the game
+[20:37:57] [User Authenticator #3/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[20:37:58] [Server thread/INFO]: Simnov joined the game
+[20:37:58] [Server thread/INFO]: Simnov[/127.179.5.185:39095] logged in with entity id 30269 at ([world]470.0005059919832, 63.0, -192.88494325721524)
+[20:43:03] [User Authenticator #4/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[20:43:04] [Server thread/INFO]: juanchipe7 joined the game
+[20:43:04] [Server thread/INFO]: juanchipe7[/127.174.93.140:33507] logged in with entity id 31724 at ([world]391.341635896558, 51.0, -336.3510059406489)
+[20:47:44] [Server thread/WARN]: Oak Boat (vehicle of juanchipe7) moved wrongly! 1.00041989292518
+[20:47:44] [Server thread/WARN]: Oak Boat (vehicle of juanchipe7) moved wrongly! 1.1692229732950352
+[20:47:44] [Server thread/WARN]: Oak Boat (vehicle of juanchipe7) moved wrongly! 1.3772992985624342
+[20:47:44] [Server thread/WARN]: Oak Boat (vehicle of juanchipe7) moved wrongly! 1.6237149713716406
