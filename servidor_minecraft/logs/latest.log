@@ -108,3 +108,4 @@
 [21:26:46] [Async Chat Thread - #0/INFO]: [Not Secure] <Pikemaruya> debug
 [22:23:24] [Server thread/INFO]: Villager Villager['Farmer'/64488, uuid='9ff0d8da-373b-4c28-acbb-4abc5113def8', l='ServerLevel[world]', x=-2557.41, y=63.00, z=-420.90, cpos=[-160, -27], tl=6832, v=true] died, message: 'Farmer was slain by Zombie'
 [22:24:01] [Server thread/INFO]: Villager Villager['Leatherworker'/64489, uuid='849556b4-4ccd-4b7d-8127-01fc05302947', l='ServerLevel[world]', x=-2556.53, y=64.00, z=-425.68, cpos=[-160, -27], tl=7585, v=true] died, message: 'Leatherworker was slain by Zombie'
+[22:41:00] [Server thread/INFO]: Pikemaruya was slain by Phantom
