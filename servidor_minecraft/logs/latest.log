@@ -90,3 +90,7 @@
 [19:28:34] [Server thread/INFO]: Done (36.970s)! For help, type "help"
 [19:28:34] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
 [19:28:34] [Server thread/WARN]: [ViaVersion] There is a newer plugin version available: 5.4.2, you're on: 5.4.1
+[19:56:43] [User Authenticator #0/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[19:56:43] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
+[19:56:45] [Server thread/INFO]: Pikemaruya joined the game
+[19:56:45] [Server thread/INFO]: Pikemaruya[/127.53.194.86:49805] logged in with entity id 53 at ([world]-2594.577483508439, 74.875, 938.065918192344)
