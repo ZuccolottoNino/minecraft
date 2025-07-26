@@ -128,3 +128,12 @@
 [23:30:50] [User Authenticator #4/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
 [23:30:51] [Server thread/INFO]: Simnov joined the game
 [23:30:51] [Server thread/INFO]: Simnov[/127.46.119.169:59353] logged in with entity id 25123 at ([world_the_end]-1676.300000011921, 58.0, -7865.55754625647)
+[23:40:16] [Server thread/INFO]: Simnov lost connection: Disconnected
+[23:40:16] [Server thread/INFO]: Simnov left the game
+[23:40:33] [User Authenticator #5/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[23:40:34] [Server thread/INFO]: Simnov joined the game
+[23:40:34] [Server thread/INFO]: Simnov[/127.46.119.169:45947] logged in with entity id 26552 at ([world_the_end]-1609.307840376709, -100.52014577463073, -8946.645855007626)
+[23:40:35] [Server thread/INFO]: Simnov fell out of the world
+[23:40:47] [User Authenticator #5/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[23:40:49] [Server thread/INFO]: Pikemaruya joined the game
+[23:40:49] [Server thread/INFO]: Pikemaruya[/127.53.194.86:33857] logged in with entity id 27046 at ([world]-2563.477701349026, 25.0, 923.7414881606575)
