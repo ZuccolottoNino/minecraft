@@ -102,3 +102,14 @@
 [06:38:03] [Netty Epoll Server IO #1/INFO]: Disconnecting Simnov for sending keepalive response (2530147) out-of-order!
 [06:38:03] [Server thread/INFO]: Simnov lost connection: Timed out
 [06:38:03] [Server thread/INFO]: Simnov left the game
+[06:38:14] [User Authenticator #1/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[06:38:16] [Server thread/INFO]: juanchipe7 joined the game
+[06:38:16] [Server thread/INFO]: juanchipe7[/127.174.93.140:53763] logged in with entity id 8482 at ([world_the_end]878.2106076247477, 64.0, -1001.1121941353292)
+[06:38:35] [Server thread/INFO]: juanchipe7 lost connection: Disconnected
+[06:38:35] [Server thread/INFO]: juanchipe7 left the game
+[06:39:03] [User Authenticator #1/INFO]: UUID of player juanchipe7 is c5b6cf50-364a-3391-89ff-43a548dc6a44
+[06:39:04] [Server thread/INFO]: juanchipe7 joined the game
+[06:39:04] [Server thread/INFO]: juanchipe7[/127.174.93.140:46509] logged in with entity id 8648 at ([world_the_end]879.6745348058843, 64.0, -1003.7892584194386)
+[06:39:23] [User Authenticator #1/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[06:39:24] [Server thread/INFO]: Simnov joined the game
+[06:39:24] [Server thread/INFO]: Simnov[/127.46.119.169:59303] logged in with entity id 8776 at ([world]477.9938279155316, 76.0, -199.70330357882236)
