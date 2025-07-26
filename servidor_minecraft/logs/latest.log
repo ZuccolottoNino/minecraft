@@ -94,3 +94,8 @@
 [19:56:43] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
 [19:56:45] [Server thread/INFO]: Pikemaruya joined the game
 [19:56:45] [Server thread/INFO]: Pikemaruya[/127.53.194.86:49805] logged in with entity id 53 at ([world]-2594.577483508439, 74.875, 938.065918192344)
+[19:59:42] [User Authenticator #1/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[19:59:44] [Server thread/INFO]: Simnov joined the game
+[19:59:44] [Server thread/INFO]: Simnov[/127.46.119.169:35619] logged in with entity id 1480 at ([world]432.1149821166092, 64.0, -165.44013270181088)
+[20:12:14] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[20:12:14] [Server thread/INFO]: Pikemaruya left the game
