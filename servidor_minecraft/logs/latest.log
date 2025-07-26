@@ -99,3 +99,6 @@
 [06:07:46] [Server thread/INFO]: Simnov[/127.46.119.169:60929] logged in with entity id 27 at ([world]467.7853555128951, 63.0, -144.46635803693295)
 [06:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2534ms or 50 ticks behind
 [06:08:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4171ms or 83 ticks behind
+[06:38:03] [Netty Epoll Server IO #1/INFO]: Disconnecting Simnov for sending keepalive response (2530147) out-of-order!
+[06:38:03] [Server thread/INFO]: Simnov lost connection: Timed out
+[06:38:03] [Server thread/INFO]: Simnov left the game
