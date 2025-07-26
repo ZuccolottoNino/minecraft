@@ -117,3 +117,8 @@
 [22:50:53] [Server thread/WARN]: Simnov moved too quickly! -6.046112895011902,-31.721869945526123,7.488761901855469
 [23:00:10] [Server thread/WARN]: Simnov moved too quickly! 7.487407684326172,-2.2364492416381836,7.50343132019043
 [23:07:37] [Server thread/WARN]: Simnov moved too quickly! 6.983469009399414,-4.05263614654541,6.982212066650391
+[23:17:22] [Server thread/INFO]: Simnov lost connection: Disconnected
+[23:17:22] [Server thread/INFO]: Simnov left the game
+[23:19:52] [User Authenticator #3/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[23:19:53] [Server thread/INFO]: Simnov joined the game
+[23:19:53] [Server thread/INFO]: Simnov[/127.46.119.169:43023] logged in with entity id 24274 at ([world_the_end]-1443.1120423420166, 62.0, -7281.865516019118)
