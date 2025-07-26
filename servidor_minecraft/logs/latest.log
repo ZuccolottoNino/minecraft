@@ -122,3 +122,9 @@
 [23:19:52] [User Authenticator #3/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
 [23:19:53] [Server thread/INFO]: Simnov joined the game
 [23:19:53] [Server thread/INFO]: Simnov[/127.46.119.169:43023] logged in with entity id 24274 at ([world_the_end]-1443.1120423420166, 62.0, -7281.865516019118)
+[23:21:47] [Server thread/WARN]: Simnov moved too quickly! 5.8400774002075195,-35.71318989992142,-6.894133687019348
+[23:26:48] [Server thread/INFO]: Simnov lost connection: Disconnected
+[23:26:48] [Server thread/INFO]: Simnov left the game
+[23:30:50] [User Authenticator #4/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[23:30:51] [Server thread/INFO]: Simnov joined the game
+[23:30:51] [Server thread/INFO]: Simnov[/127.46.119.169:59353] logged in with entity id 25123 at ([world_the_end]-1676.300000011921, 58.0, -7865.55754625647)
