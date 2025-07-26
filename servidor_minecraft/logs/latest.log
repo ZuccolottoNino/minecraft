@@ -107,3 +107,7 @@
 [20:47:55] [Server thread/INFO]: Simnov has made the advancement [Remote Getaway]
 [20:52:23] [Server thread/INFO]: Simnov lost connection: Disconnected
 [20:52:23] [Server thread/INFO]: Simnov left the game
+[22:33:58] [User Authenticator #2/INFO]: UUID of player Simnov is 04527486-bdab-39c2-a258-3655a03e914a
+[22:34:01] [Server thread/INFO]: Simnov joined the game
+[22:34:01] [Server thread/INFO]: Simnov[/127.46.119.169:50033] logged in with entity id 18122 at ([world_the_end]-702.6222566178064, 59.0, -1338.3159180567832)
+[22:34:57] [Server thread/WARN]: Simnov moved too quickly! 6.967248916625977,-21.5028378367424,-5.655047655105591
