@@ -127,3 +127,8 @@
 [04:47:34] [User Authenticator #1/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
 [04:47:35] [Server thread/INFO]: Pikemaruya joined the game
 [04:47:35] [Server thread/INFO]: Pikemaruya[/127.130.155.206:38761] logged in with entity id 29602 at ([world_nether]-374.5048460295213, 74.0, -1511.7511741966712)
+[06:03:17] [Server thread/INFO]: Pikemaruya lost connection: Disconnected
+[06:03:17] [Server thread/INFO]: Pikemaruya left the game
+[06:03:27] [User Authenticator #2/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[06:03:27] [Server thread/INFO]: Pikemaruya joined the game
+[06:03:27] [Server thread/INFO]: Pikemaruya[/127.130.155.206:58381] logged in with entity id 46164 at ([world_nether]-388.8821179473621, 74.0, -1551.8900443565449)
