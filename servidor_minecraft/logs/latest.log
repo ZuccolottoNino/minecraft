@@ -121,3 +121,9 @@
 [20:24:24] [Server thread/WARN]: Pikemaruya moved wrongly!
 [20:24:25] [Server thread/WARN]: Pikemaruya moved wrongly!
 [20:24:25] [Server thread/WARN]: Pikemaruya moved wrongly!
+[20:48:14] [Server thread/WARN]: Pikemaruya was kicked for floating too long!
+[20:48:14] [Server thread/INFO]: Pikemaruya lost connection: Flying is not enabled on this server
+[20:48:14] [Server thread/INFO]: Pikemaruya left the game
+[20:48:20] [User Authenticator #1/INFO]: UUID of player Pikemaruya is 9983ddaa-0879-3b90-976f-18533e86cd70
+[20:48:21] [Server thread/INFO]: Pikemaruya joined the game
+[20:48:21] [Server thread/INFO]: Pikemaruya[/127.130.155.206:49977] logged in with entity id 18288 at ([world_nether]-318.53465342850876, 115.25007799039517, -13.556877518084109)
