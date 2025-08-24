@@ -121,3 +121,4 @@
 [03:23:56] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [SkinsRestorer]
 [03:23:58] [Server thread/INFO]: Pikemaruya joined the game
 [03:23:58] [Server thread/INFO]: Pikemaruya[/127.130.155.206:35619] logged in with entity id 366 at ([world]-2594.960990817319, 73.875, 939.321341266328)
+[03:44:09] [Server thread/WARN]: Pikemaruya moved wrongly!
